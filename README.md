@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamad Faiq Haziem 👋
 
 <p align="center">
-  <img src="profile.jpg" alt="Mohamad Faiq Haziem" width="180" style="border-radius: 50%;">
+  <img src="Faiq.jpg.jpeg" alt="Mohamad Faiq Haziem" width="180" style="border-radius: 50%;">
 </p>
 
 Welcome to my GitHub profile! I am a passionate learner exploring software development and building new projects.
