@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Mohamad Faiq Haziem 👋
 
-<!--
-**faiqhaziem27/faiqhaziem27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate learner exploring software development and building new projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working on:** Learning GitHub and building my first projects.
+- 🌱 **Currently learning:** Web Development, Git, and GitHub workflows.
+- 💡 **Interests:** Software Engineering, Web Technologies, and Open Source.
+- 💬 **Ask me about:** HTML, CSS, JavaScript, or basic Git commands.
+- 📫 **How to reach me:** your.email@example.com
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Faiq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+
+---
+
+⚡ *Fun fact: Always curious and excited to learn new technologies!*
