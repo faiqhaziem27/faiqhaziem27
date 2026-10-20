@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I am a passionate learner exploring software devel
 - 🌱 **Currently learning:** Web Development, Git, and GitHub workflows.
 - 💡 **Interests:** Software Engineering, Web Technologies, and Open Source.
 - 💬 **Ask me about:** HTML, CSS, JavaScript, or basic Git commands.
-- 📫 **How to reach me:** your.email@example.com
+- 📫 **How to reach me:** faiqhaziem@gmail.com
 
 ---
 
